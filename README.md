@@ -1,0 +1,2 @@
+# NauticalAlmanac
+Nautical Almanac generator
